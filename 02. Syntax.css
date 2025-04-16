@@ -1,0 +1,10 @@
+#paragraph {
+
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    border-radius: 90px;
+    box-shadow: 0 2px 5px rgba(185, 117, 117, 0.1);
+    font-size: 25px;
+    
+}
